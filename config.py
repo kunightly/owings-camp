@@ -11,4 +11,4 @@ PRICE_PER_NIGHT = 200
 FIRST_NIGHT_DATE = "2026-08-22"
 
 # Who the debt is owed to (just used in the message text)
-OWED_TO = "X"
+OWED_TO = "Irene"
